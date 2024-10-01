@@ -521,7 +521,8 @@
     "xml": "emailservicesfunction",
     "xorghub": "xorghub",
     "ecaPush": "extlclntapppushsettings",
-    "ecaPushPlcy": "extlclntapppushconfigurablepolicies"
+    "ecaPushPlcy": "extlclntapppushconfigurablepolicies",
+    "omniIPDefinition": "omniipdefinition"
   },
   "types": {
     "accesscontrolpolicy": {
@@ -4637,6 +4638,14 @@
       "name": "ExtlClntAppPushConfigurablePolicies",
       "suffix": "ecaPushPlcy",
       "directoryName": "extlClntAppPushPolicies",
+      "inFolder": false,
+      "strictDirectoryName": false
+    },
+    "omniipdefinition": {
+      "id": "omniipdefinition",
+      "name": "OmniIPDefinition",
+      "suffix": "omniIPDefinition",
+      "directoryName": "omniIPDefinitions",
       "inFolder": false,
       "strictDirectoryName": false
     }

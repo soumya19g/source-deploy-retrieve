@@ -3403,6 +3403,14 @@
     "metaFile": false,
     "hasChildren": false
   },
+  "OmniIPDefinition": {
+    "name": "OmniIPDefinition",
+    "directoryName": "omniIPDefinitions",
+    "inFolder": false,
+    "metaFile": false,
+    "suffix": "omniIPDefinition",
+    "hasChildren": false
+  },
   "OmniScript": {
     "name": "OmniScript",
     "directoryName": "omniScripts",
